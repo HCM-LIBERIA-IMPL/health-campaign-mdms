@@ -41,7 +41,7 @@
           "label": "Portuguese",
           "value": "pt_MZ"
         },
-        {
+           {
           "label": "French",
           "value": "fr_MZ"
         },
@@ -50,49 +50,49 @@
           "value": "en_MZ"
         }
       ],
-      "CALL_SUPPORT": [
+      "CALL_SUPPORT":[
         {
           "name": "Support DeskLine 1",
           "code": "9686151676"
         },
-        {
+          {
           "name": "Support DeskLine 2",
           "code": "7060431109"
         }
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "WAREHOUSE",
-          "code": "WAREHOUSE"
+          "name": "REGISTRATION_BASIC",
+          "code": "REGISTRATION_BASIC"
         },
         {
-          "name": "TRAINING_SUPERVISION",
-          "code": "TRAINING_SUPERVISION"
+          "name": "LOCAL_MONITOR_TRAINING",
+          "code": "LOCAL_MONITOR_TRAINING"
         },
         {
-          "name": "TEAM_FORMATION",
-          "code": "TEAM_FORMATION"
-        },
-         {
-          "name": "HF_REFERRAL_SICK",
-          "code": "HF_REFERRAL_SICK"
+          "name": "DISTRICT_MONITOR_TRAINING",
+          "code": "DISTRICT_MONITOR_TRAINING"
         },
         {
-          "name": "HF_REFERRAL_FEVER",
-          "code": "HF_REFERRAL_FEVER"
+          "name": "REGISTRATION_TEAM_TRAINING",
+          "code": "REGISTRATION_TEAM_TRAINING"
         },
         {
-          "name": "HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC",
-          "code": "HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC"
+          "name": "AS_MONITORING",
+          "code": "AS_MONITORING"
         },
         {
-          "name": "HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC",
-          "code": "HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC"
+          "name": "MATERIAL_RECEIVED",
+          "code": "MATERIAL_RECEIVED"
+        },
+        {
+          "name": "MATERIAL_ISSUED",
+          "code": "MATERIAL_ISSUED"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "SYSTEM_GENERATED",
+          "code": "DEFAULT",
           "name": "DEFAULT"
         },
         {
