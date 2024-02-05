@@ -176,28 +176,24 @@
           "name": "Truck"
         },
         {
-          "code": "DOUBLE_CABIN",
-          "name": "Double cabin"
+          "code": "PICKUP",
+          "name": "Pickup"
         },
         {
-          "code": "SINGLE_CABIN",
-          "name": "Single Cabin"
+          "code": "BUS",
+          "name": "Bus"
         },
         {
-          "code": "VAN",
-          "name": "Van"
-        },
-        {
-          "code": "MOTORCYCLE",
-          "name": "Motorcycle"
+          "code": "CAP_MOTOR",
+          "name": "Cap Motor"
         },
         {
           "code": "IN_HAND",
-          "name": "In Hand"
+          "name": "By Hand"
         },
         {
-          "code": "TRACTOR",
-          "name": "Tractor"
+          "code": "BY_CANOE",
+          "name": "By Canoe"
         }
       ],
       "BACKEND_INTERFACE": {
