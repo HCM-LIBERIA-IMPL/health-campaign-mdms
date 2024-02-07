@@ -61,7 +61,8 @@
           "targeted_households",
           "total_individuals",
           "targeted_individuals",
-          "total_bednets"
+          "total_bednets",
+          "targeted_bednets"
         ],
         "totalVsTarget": [
         ],
@@ -76,7 +77,7 @@
           },
           {
             "beneficiarytype": "PRODUCT",
-            "targetedColumn": "total_bednets"
+            "targetedColumn": "targeted_bednets"
           }
         ]
       }
