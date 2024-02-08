@@ -4,43 +4,43 @@
     "transformerLocalizations": [
         {
             "text": "PENDING_ASSIGNMENT",
-            "translatedText": "Reclamações abertas"
+            "translatedText": "Pending Assignment"
         },
         {
             "text": "RESOLVED",
-            "translatedText": "Resolvido"
+            "translatedText": "Resolved"
         },
         {
             "text": "REJECTED",
-            "translatedText": "Rejeitado"
+            "translatedText": "Rejected"
         },
         {
             "text": "TechnicalIssues",
-            "translatedText": "Problemas Técnicos do Dispositivo"
+            "translatedText": "Technical Issues"
         },
         {
             "text": "LackOfInternet",
-            "translatedText": "Falta de megas"
+            "translatedText": "Lack of Internet"
         },
         {
             "text": "UserAccountIssues",
-            "translatedText": "Problemas de Credenciais"
+            "translatedText": "User Account Issues"
         },
         {
             "text": "DataIssues",
-            "translatedText": "Problemas de dados"
+            "translatedText": "Data Issues"
         },
         {
             "text": "PerformanceIssue",
-            "translatedText": "Problema de desempenho"
+            "translatedText": "Performance Issue"
         },
         {
             "text": "SecurityIssues",
-            "translatedText": "Questões de segurança"
+            "translatedText": "Security Issues"
         },
         {
             "text": "Other",
-            "translatedText": "Outros"
+            "translatedText": "Other"
         }
     ]
 }
