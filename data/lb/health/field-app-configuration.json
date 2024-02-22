@@ -194,6 +194,26 @@
         {
           "code": "BY_CANOE",
           "name": "By Canoe"
+        },
+        {
+          "code": "MOTOR_BIKE",
+          "name": "Motorbike"
+        },
+        {
+          "code": "KEH_KEH",
+          "name": "Keh-keh"
+        },
+        {
+          "code": "PUSH_PUSH",
+          "name": "Push-Push"
+        },
+        {
+          "code": "WHEELBARROW",
+          "name": "Wheelbarrow"
+        },
+        {
+          "code": "OTHERS",
+          "name": "Others"
         }
       ],
       "BACKEND_INTERFACE": {
