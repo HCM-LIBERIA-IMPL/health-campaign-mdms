@@ -19107,7 +19107,7 @@
       "tenantid": "lb"
     },
     {
-      "rolecode": "FIELD_SUPERVISOR",
+      "rolecode": "LOCAL_MONITOR",
       "actionid": 1909,
       "actioncode": "",
       "tenantid": "lb"
@@ -19119,7 +19119,7 @@
       "tenantid": "lb"
     },
     {
-      "rolecode": "FIELD_SUPERVISOR",
+      "rolecode": "LOCAL_MONITOR",
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "lb"
