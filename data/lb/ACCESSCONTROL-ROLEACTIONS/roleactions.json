@@ -16990,12 +16990,6 @@
     },
     {
       "rolecode": "LOCAL_MONITOR",
-      "actionid": 1666,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "LOCAL_MONITOR",
       "actionid": 1667,
       "actioncode": "",
       "tenantid": "lb"
