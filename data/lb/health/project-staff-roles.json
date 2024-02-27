@@ -83,8 +83,12 @@
             "rank": 20
         },
         {
-            "code": "SUPERVISOR",
+            "code": "INDEPENDENT_SUPERVISOR",
             "rank": 21
+        },
+        {
+            "code": "SUPERVISOR",
+            "rank": 22
         }
     ]
 }

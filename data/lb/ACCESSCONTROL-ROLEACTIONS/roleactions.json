@@ -14289,6 +14289,48 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1892,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1893,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1902,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1890,
       "actioncode": "",
@@ -14997,6 +15039,12 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1594,
       "actioncode": "",
@@ -15016,6 +15064,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1545,
       "actioncode": "",
       "tenantId": "lb"
@@ -15393,6 +15447,12 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "REGISTRAR",
       "actionid": 1629,
       "actioncode": "",
@@ -15459,6 +15519,12 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1632,
       "actioncode": "",
@@ -15490,6 +15556,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1633,
       "actioncode": "",
       "tenantId": "lb"
@@ -15657,6 +15729,30 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1640,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1641,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1642,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1640,
       "actioncode": "",
@@ -15915,6 +16011,30 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1644,
       "actioncode": "",
@@ -15964,6 +16084,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1648,
       "actioncode": "",
       "tenantId": "lb"
@@ -15994,6 +16120,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1649,
       "actioncode": "",
       "tenantId": "lb"
@@ -16149,6 +16281,12 @@
       "tenantId": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1656,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1656,
       "actioncode": "",
@@ -16180,6 +16318,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 701,
       "actioncode": "",
       "tenantid": "lb"
@@ -16258,6 +16402,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1658,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1658,
       "actioncode": "",
       "tenantid": "lb"
@@ -16365,31 +16515,7 @@
       "tenantid": "lb"
     },
     {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "FIELD_SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "SUPERVISOR",
-      "actionid": 1665,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1665,
       "actioncode": "",
       "tenantid": "lb"
@@ -16425,6 +16551,48 @@
       "tenantid": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1665,
       "actioncode": "",
@@ -16455,6 +16623,12 @@
       "tenantid": "lb"
     },
     {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
+      "actionid": 1664,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1664,
       "actioncode": "",
@@ -16480,6 +16654,12 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1662,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "INDEPENDENT_SUPERVISOR",
       "actionid": 1662,
       "actioncode": "",
       "tenantid": "lb"
@@ -16805,12 +16985,6 @@
     {
       "rolecode": "LOCAL_MONITOR",
       "actionid": 1664,
-      "actioncode": "",
-      "tenantid": "lb"
-    },
-    {
-      "rolecode": "LOCAL_MONITOR",
-      "actionid": 1666,
       "actioncode": "",
       "tenantid": "lb"
     },
@@ -18819,6 +18993,18 @@
       "tenantid": "lb"
     },
     {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1912,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1914,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
       "rolecode": "SUPERVISOR",
       "actionid": 1914,
       "actioncode": "",
@@ -18915,7 +19101,19 @@
       "tenantid": "lb"
     },
     {
+      "rolecode": "LOCAL_MONITOR",
+      "actionid": 1909,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "LOCAL_MONITOR",
       "actionid": 1551,
       "actioncode": "",
       "tenantid": "lb"
@@ -18923,6 +19121,12 @@
     {
       "rolecode": "SUPERVISOR",
       "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1921,
       "actioncode": "",
       "tenantid": "lb"
     }

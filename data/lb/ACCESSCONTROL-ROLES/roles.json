@@ -48,6 +48,11 @@
       "description": "Supervisor"
     },
     {
+      "code": "INDEPENDENT_SUPERVISOR",
+      "name": "Independent Supervisor",
+      "description": "Supervisor who can fill checklists"
+    },
+    {
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
