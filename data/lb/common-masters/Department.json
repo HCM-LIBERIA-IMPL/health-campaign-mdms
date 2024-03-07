@@ -32,6 +32,13 @@
     },
     {
       "id": 5,
+      "name": "AMP",
+      "code": "AMP",
+      "tenantId": "lb",
+      "active": true
+    },
+    {
+      "id": 6,
       "name": "OTHER",
       "code": "OTHER",
       "tenantId": "lb",
