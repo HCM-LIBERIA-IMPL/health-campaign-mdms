@@ -18985,6 +18985,756 @@
       "actionid": 1922,
       "actioncode": "",
       "tenantId": "lb"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1923,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantid": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1925,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1927,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1927,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1927,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1928,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1932,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1932,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1932,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1935,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1936,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1937,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1937,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1937,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1938,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1939,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1940,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1947,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1948,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1949,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1951,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1952,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1953,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1953,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1953,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1954,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1954,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1955,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1955,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1956,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1956,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1957,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1957,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1958,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1958,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1959,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1959,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1960,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1961,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1962,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1963,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1963,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1963,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1964,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1964,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1964,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1965,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1965,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1965,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1966,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1967,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
