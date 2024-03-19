@@ -19015,6 +19015,12 @@
       "actionid": 1924,
       "actioncode": "",
       "tenantId": "lb"
+    },
+    {
+      "rolecode": "LOCAL_MONITOR",
+      "actionid": 1924,
+      "actioncode": "",
+      "tenantId": "lb"
     }
   ]
 }
