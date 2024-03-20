@@ -19021,6 +19021,18 @@
       "actionid": 1924,
       "actioncode": "",
       "tenantId": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1915,
+      "actioncode": "",
+      "tenantId": "lb"
+    },
+    {
+      "rolecode": "LOCAL_MONITOR",
+      "actionid": 1915,
+      "actioncode": "",
+      "tenantId": "lb"
     }
   ]
 }
