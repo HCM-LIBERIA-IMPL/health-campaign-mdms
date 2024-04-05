@@ -18951,6 +18951,12 @@
       "tenantid": "lb"
     },
     {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
       "rolecode": "SUPERVISOR",
       "actionid": 1551,
       "actioncode": "",
