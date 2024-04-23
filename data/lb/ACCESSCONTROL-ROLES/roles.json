@@ -53,6 +53,11 @@
       "description": "Supervisor who can fill checklists"
     },
     {
+      "code": "ATTENDANCE_SUPERVISOR",
+      "name": "Attendance Supervisor",
+      "description": "Supervisor who can take attendance"
+    },
+    {
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
