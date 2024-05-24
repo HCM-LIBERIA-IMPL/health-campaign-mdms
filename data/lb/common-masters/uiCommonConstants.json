@@ -1,0 +1,22 @@
+{
+    "tenantId": "lb",
+    "moduleName": "common-masters",
+    "uiCommonConstants": [
+      {
+        "elastic": {
+          "iframe-routes": {
+            "home": {
+              "routePath": "/kibana-upgrade/login",
+              "isOrigin": true
+            },
+            "national": {
+              "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/b4242270-c67e-11ee-a057-e939bdf17502?_g=(time:(from:now-15y,to:now))&_a=()",
+              "isOrigin": true,
+              "title": "NATIONAL_DASHBOARD"
+            }
+          }
+        }
+      }
+    ]
+  }
+  

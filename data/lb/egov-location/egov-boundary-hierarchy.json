@@ -19,6 +19,11 @@
     },
     {
       "level": 4,
+      "label": "HealthFacility",
+      "indexLabel": "healthFacility"
+    },
+    {
+      "level": 5,
       "label": "Community",
       "indexLabel": "community"
     }
