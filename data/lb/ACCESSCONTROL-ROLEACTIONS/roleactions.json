@@ -19093,6 +19093,18 @@
       "actionid": 1909,
       "actioncode": "",
       "tenantId": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantid": "lb"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1921,
+      "actioncode": "",
+      "tenantid": "lb"
     }
   ]
 }
