@@ -13167,6 +13167,20 @@
       "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/national_phase_1",
       "path": "iframe.HCM",
       "leftIcon": ""
+    },
+    {
+      "id": 1927,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "COUNTY_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/county",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }
