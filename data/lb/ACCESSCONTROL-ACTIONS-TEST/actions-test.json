@@ -13178,7 +13178,7 @@
       "enabled": true,
       "serviceCode": "iframe",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/county",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/county?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
     }
