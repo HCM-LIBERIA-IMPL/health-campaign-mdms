@@ -13117,6 +13117,34 @@
       "leftIcon": "social:people"
     },
     {
+      "id": 1926,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "NATIONAL_DASHBOARD_PHASE_1",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/national_phase_1",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
+      "id": 1927,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "COUNTY_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/county?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
+    },
+    {
       "id": 1923,
       "name": "PGR",
       "url": "url",

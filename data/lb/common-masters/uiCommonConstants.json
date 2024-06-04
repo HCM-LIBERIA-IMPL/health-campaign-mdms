@@ -10,9 +10,19 @@
               "isOrigin": true
             },
             "national": {
-              "routePath": "/kibana-upgrade/app/dashboards?auth_provider_hint=anonymous1#/view/b4242270-c67e-11ee-a057-e939bdf17502?_g=(time:(from:now-15y,to:now))&_a=()",
+              "routePath": "/kibana-upgrade/s/pilot-dashboard/app/dashboards#/view/e45d10d3-ebaf-4927-a6a7-28c241af21b4?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD"
+            },
+            "national_phase_1": {
+              "routePath": "/kibana-upgrade/s/one-phase-dashboard/app/dashboards#/view/7ae0a2ac-6fe4-4b8d-8f62-ff7ee17220ff?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+              "isOrigin": true,
+              "title": "NATIONAL_DASHBOARD_PHASE_1"
+            },
+            "county": {
+              "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards#/view/2e34c579-f24b-4d95-accc-a727edebc14b?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+              "isOrigin": true,
+              "title": "COUNTY_DASHBOARD"
             }
           }
         }
