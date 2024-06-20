@@ -20,7 +20,7 @@
               "title": "NATIONAL_DASHBOARD_PHASE_1"
             },
             "county": {
-              "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/2e34c579-f24b-4d95-accc-a727edebc14b?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+              "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/a405fee1-d7c9-443b-b129-a5f2463e5a20?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "COUNTY_DASHBOARD"
             }
