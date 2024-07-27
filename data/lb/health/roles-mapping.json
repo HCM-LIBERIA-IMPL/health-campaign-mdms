@@ -33,6 +33,7 @@
     "Independent Supervisor": "INDEPENDENT_SUPERVISOR",
     "Independent Supervisor Dashboard": "SUPERVISOR,INDEPENDENT_SUPERVISOR",
     "Attendance Supervisor": "ATTENDANCE_SUPERVISOR",
-    "DP Supervisor": "DISTRIBUTOR, ATTENDANCE_SUPERVISOR"
+    "DP Supervisor": "DISTRIBUTOR, ATTENDANCE_SUPERVISOR",
+    "Dashboard and App Users": "DISTRIBUTOR, REGISTRAR, WAREHOUSE_MANAGER, NATIONAL_SUPERVISOR, SUPERVISOR"
   }]
 }
