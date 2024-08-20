@@ -13181,6 +13181,20 @@
       "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/county?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
+    },
+    {
+      "id": 1928,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "COUNTY_PHASE_TWO_DASHBOARD",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/countyPhaseTwo?query=true",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }

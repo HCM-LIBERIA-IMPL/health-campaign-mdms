@@ -23,6 +23,11 @@
               "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/a405fee1-d7c9-443b-b129-a5f2463e5a20?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "COUNTY_DASHBOARD"
+            },
+            "countyPhaseTwo": {
+              "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards?auth_provider_hint",
+              "isOrigin": true,
+              "title": "COUNTY_PHASE_TWO_DASHBOARD"
             }
           }
         }
