@@ -33,6 +33,15 @@
           "value": "pt_LB"
         }
       ],
+      "phaseTwoCounties": [
+        "Bomi",
+        "Bong",
+        "Grand Bassa",
+        "Grand Cape Mount",
+        "Lofa A",
+        "Montserrado",
+        "Nimba"
+      ],
       "localizationModules": [
         {
           "label": "rainmaker-common",
