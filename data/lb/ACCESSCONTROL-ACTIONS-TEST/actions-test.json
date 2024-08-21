@@ -13195,6 +13195,20 @@
       "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/countyPhaseTwo?query=true",
       "path": "iframe.HCM",
       "leftIcon": ""
+    },
+    {
+      "id": 1929,
+      "name": "DASHBOARD",
+      "url": "url",
+      "displayName": "NATIONAL_DASHBOARD_PHASE_2",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "iframe",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/utilities/iframe/elastic/national_phase_2",
+      "path": "iframe.HCM",
+      "leftIcon": ""
     }
   ]
 }
