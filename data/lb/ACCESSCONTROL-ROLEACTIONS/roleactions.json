@@ -19111,6 +19111,12 @@
       "actionid": 1928,
       "actioncode": "",
       "tenantid": "lb"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1929,
+      "actioncode": "",
+      "tenantid": "lb"
     }
   ]
 }
