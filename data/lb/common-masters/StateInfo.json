@@ -23,6 +23,15 @@
         "INDIA_COUNTRY_CODE": "+91",
         "COUNTRY_CODE_MOBILE": "+231"
       },
+      "phaseTwoCounties": [
+        "Bomi",
+        "Bong",
+        "Grand Bassa",
+        "Grand Cape Mount",
+        "Lofa A",
+        "Montserrado",
+        "Nimba"
+      ],
       "languages": [
         {
           "label": "ENGLISH",
