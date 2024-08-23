@@ -15,22 +15,22 @@
               "title": "NATIONAL_DASHBOARD"
             },
             "national_phase_1": {
-              "routePath": "/kibana-upgrade/s/one-phase-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/7ae0a2ac-6fe4-4b8d-8f62-ff7ee17220ff?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+              "routePath": "/kibana-upgrade/s/ph-i-/app/dashboards?auth_provider_hint=anonymous1#/view/d47a13be-1285-4688-bc2b-1dd2095e1ed6?_g=(time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD_PHASE_1"
             },
             "national_phase_2": {
-              "routePath": "/kibana-upgrade/s/two-phase-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/7ae0a2ac-6fe4-4b8d-8f62-ff7ee17220ff?_g=(filters:!(),time:(from:now-15m,to:now))",
+              "routePath": "/kibana-upgrade/s/phase-two-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/a9962f75-7f86-4522-bffd-b9c7ab20a5cf?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "NATIONAL_DASHBOARD_PHASE_2"
             },
             "county": {
-              "routePath": "/kibana-upgrade/s/county-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/a405fee1-d7c9-443b-b129-a5f2463e5a20?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+              "routePath": "/kibana-upgrade/s/ph-i-/app/dashboards?auth_provider_hint=anonymous1#/view/d47a13be-1285-4688-bc2b-1dd2095e1ed6?_g=(filters:!(),time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "COUNTY_DASHBOARD"
             },
             "countyPhaseTwo": {
-              "routePath": "/kibana-upgrade/s/county-dashboard-phase-two/app/dashboards?auth_provider_hint",
+              "routePath": "/kibana-upgrade/s/phase-two-dashboard/app/dashboards?auth_provider_hint=anonymous1#/view/a9962f75-7f86-4522-bffd-b9c7ab20a5cf?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
               "isOrigin": true,
               "title": "COUNTY_PHASE_TWO_DASHBOARD"
             }
