@@ -19117,6 +19117,12 @@
       "actionid": 1929,
       "actioncode": "",
       "tenantid": "lb"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantId": "lb"
     }
   ]
 }
